@@ -15,14 +15,6 @@ This is a basic Laravel website including tailwaind css, built with composer and
 
 Afterwards, Deploy Now will set up a [GitHub Actions](https://github.com/features/actions) workflow that will be triggered by every new code commit. Build results are automatically deployed to IONOS infrastructure. Projects go live under a preview URL, but you can replace it with a custom domain anytime.
 
-## Helpful links
-[Deploy Now docs](https://docs.ionos.space/)
-
-[About PHP Apps on Deploy Now](https://docs.ionos.space/docs/deploy-php-apps/)
-
-[About build configuration](https://docs.ionos.space/docs/github-actions-customization/)
-
-[About deployment configuration](https://docs.ionos.space/docs/deployment-configuration/)
 
 [About runtime configuration](https://docs.ionos.space/docs/runtime-configuration/)
 
